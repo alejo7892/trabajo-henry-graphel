@@ -1,1 +1,0 @@
-git es un sistema de control de versiones ideado por linus torvalds
